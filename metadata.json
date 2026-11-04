@@ -1,0 +1,6 @@
+{
+  "name": "eKos - Teleprónter & Karaoke en Tiempo Real",
+  "description": "eKos: Teleprónter y karaoke interactivo con reconocimiento de voz en tiempo real por micrófono, seguimiento palabra por palabra con cero latencia y auto-scroll suave.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
